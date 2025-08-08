@@ -1,0 +1,10 @@
+id = "super-mario-world"
+name = "Super Mario World Theme"
+description = "A nostalgic theme inspired by the classic Super Mario World game"
+version = "0.1.0"
+schema_version = 1
+authors = ["Zed Mario Theme"]
+repository = "https://github.com/yourusername/zed-super-mario-world-theme"
+
+[themes]
+"Super Mario World" = "themes/super-mario-world.json"
