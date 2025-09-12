@@ -1,10 +1,10 @@
-id = "super-mario-world"
-name = "Super Mario World Theme"
-description = "A nostalgic theme inspired by the classic Super Mario World game"
+id = "zed-red"
+name = "Zed Red"
+description = "A dark demonic theme with deep blacks and blood reds, perfect for night-time coding"
 version = "0.1.0"
 schema_version = 1
-authors = ["Zed Mario Theme"]
-repository = "https://github.com/yourusername/zed-super-mario-world-theme"
+authors = ["brad"]
+repository = "https://github.com/brad/zed-red"
 
 [themes]
-"Super Mario World" = "themes/super-mario-world.json"
+"Zed Red" = "themes/zed-red.json"
